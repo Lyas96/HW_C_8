@@ -47,7 +47,7 @@ int[,] MyltiplicateMatrix (int[,] MatrixNumb1, int[,] MatrixNumb2)
   }
   else
     {
-      Console.WriteLine(" Нельзя перемножить ");
+      WriteLine(" Нельзя перемножить ");
     }
   return result;
 }
